@@ -1,21 +1,25 @@
-.galler img{
-    width:97%
+.galler img {
+    width: 97%
 }
-.galler{
-    padding-top: 85px ;
+
+.galler {
+    padding-top: 85px;
 }
-body{
+
+body {
     font-family: "Montserrat Alternates";
     background-color: #172C76;
     background: -moz-radial-gradient(center 45deg, circle closest-corner, #2E3C7F 70%, #224298 100%);
     background-image: url(data:image/png;base64,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);
 }
+
 .side h4 {
     /* writing-mode: sideways-lr; */
     writing-mode: vertical-rl;
     transform: scale(-1);
     line-height: 0;
-  }
+}
+
 .ThirdFrame {
     padding-left: 23%;
     margin-top: 85px;
@@ -23,66 +27,216 @@ body{
     padding-bottom: 136px;
     color: #1D347E;
 }
-.container-fluid{
+
+.container-fluid {
     background-color: #D3E7FF;
 }
-p{
+
+p {
     font-size: 24px;
 }
-h4{
+
+h4 {
     font-size: 48px;
     font-weight: 900;
 }
-.FourthFrame{
+
+.FourthFrame {
     padding-top: 106px;
     color: #D3E7FF;
     font-weight: 900;
 }
-.map{
+
+.map {
     padding-top: 46px;
 }
-.map_img{
+
+.map_img {
     padding-top: 120px;
 }
-.Map_number p{
+
+.Map_number p {
     text-align: center;
     border: 3px solid #D3E7FF;
     border-radius: 30px;
     padding: 6px 18px 6px 18px;
 }
-.Map_text p{
+
+.Map_text p {
     white-space: nowrap;
     margin-left: 3%;
 }
-.testimon{
-    width:22%;
-    border:2px solid #1D347E;
+
+.testimon {
+    width: 22%;
+    border: 2px solid #1D347E;
     border-radius: 70px;
     margin-bottom: 20px;
 }
-.name{
+
+.name {
     padding-left: 40px;
     padding-top: 15px;
     font-weight: 900;
-    
+
 }
-.n-1{
+
+.n-1 {
     padding-right: 126px;
 }
-.n-2{
+
+.n-2 {
     padding-right: 83px;
 }
-.n-3{
+
+.n-3 {
     padding-right: 168px;
 }
-.n-4{
+
+.n-4 {
     padding-right: 126px;
 }
-.otsenka{
-    border:2px solid #1D347E;
+
+.otsenka {
+    border: 2px solid #1D347E;
     padding: 13px 42px 10px 5px;
     border-radius: 70px;
     padding-left: 9%;
     background-color: #1D347E;
     color: #D3E7FF;
+}
+
+h4 {
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 150%;
+    text-transform: uppercase;
+    color: #D3E7FF;
+}
+
+.voprosi {
+    margin-bottom: 300px
+}
+
+.accordion-button {
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: -0.019em;
+    color: #D3E7FF;
+}
+
+.accordion-body {
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: -0.019em;
+    color: #D3E7FF;
+}
+
+.accordion-item {
+    --bs-accordion-inner-border-radius: 30px;
+}
+
+.accordion-item {
+    border: none;
+    margin: 25px 0;
+}
+
+.accordion-button {
+    border: 2px solid rgba(211, 231, 255, 1);
+    border-radius: 30px;
+}
+
+.accordion-button::after {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='rgba(211, 231, 255, 1)'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+.contacts-header {
+    margin-bottom: 80px;
+}
+
+.contact-link {
+    margin-bottom: 25px;
+}
+
+.first-rec-contacts {
+    background: #D3E7FF;
+    border: 2px solid #1D347E;
+    border-radius: 54px;
+    padding: 25px 50px;
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: -0.019em;
+    color: #1D347E;
+}
+
+.second-rec-contacts {
+    background: #1D347E;
+    border: 2px solid #D3E7FF;
+    border-radius: 54px;
+    padding: 25px 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 150%;
+    letter-spacing: -0.011em;
+    color: #D3E7FF;
+    margin-left: -100px;
+}
+
+.contact-p {
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 150%;
+    letter-spacing: -0.011em;
+    color: #D3E7FF;
+}
+
+.contacts {
+    margin-bottom: 150px;
+}
+
+#fish1 {
+    width: 221px;
+    top: -66px;
+    left: 40px;
+}
+
+#fish2 {
+    width: 156px;
+    bottom: 54px;
+    left: 400px;
+}
+
+#fish3 {
+    width: 188px;
+    bottom: 90px;
+    left: 727px;
+}
+
+#fish4 {
+    width: 214px;
+    bottom: 10px;
+    left: 1000px;
+    bottom: 53px;
+    left: 1025px;
+}
+
+#fish5 {
+    width: 180px;
+    top: 0;
+    left: 1333px;
 }

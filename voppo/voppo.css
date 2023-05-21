@@ -1,0 +1,134 @@
+h4 {
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 150%;
+    text-transform: uppercase;
+    color: #D3E7FF;
+}
+
+.voprosi {
+    margin-bottom: 300px
+}
+
+.accordion-button {
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: -0.019em;
+    color: #D3E7FF;
+}
+
+.accordion-body {
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: -0.019em;
+    color: #D3E7FF;
+}
+
+.accordion-item {
+    --bs-accordion-inner-border-radius: 30px;
+}
+
+.accordion-item {
+    border: none;
+    margin: 25px 0;
+}
+
+.accordion-button {
+    border: 2px solid rgba(211, 231, 255, 1);
+    border-radius: 30px;
+}
+
+.accordion-button::after {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='rgba(211, 231, 255, 1)'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+.contacts-header {
+    margin-bottom: 80px;
+}
+
+.contact-link {
+    margin-bottom: 25px;
+}
+
+.first-rec-contacts {
+    background: #D3E7FF;
+    border: 2px solid #1D347E;
+    border-radius: 54px;
+    padding: 25px 50px;
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: -0.019em;
+    color: #1D347E;
+}
+
+.second-rec-contacts {
+    background: #1D347E;
+    border: 2px solid #D3E7FF;
+    border-radius: 54px;
+    padding: 25px 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 150%;
+    letter-spacing: -0.011em;
+    color: #D3E7FF;
+    margin-left: -100px;
+}
+
+.contact-p {
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 150%;
+    letter-spacing: -0.011em;
+    color: #D3E7FF;
+}
+
+.contacts {
+    margin-bottom: 150px;
+}
+
+#fish1 {
+    width: 221px;
+    top: -66px;
+    left: 40px;
+}
+
+#fish2 {
+    width: 156px;
+    bottom: 54px;
+    left: 400px;
+}
+
+#fish3 {
+    width: 188px;
+    bottom: 90px;
+    left: 727px;
+}
+
+#fish4 {
+    width: 214px;
+    bottom: 10px;
+    left: 1000px;
+    bottom: 53px;
+    left: 1025px;
+}
+
+#fish5 {
+    width: 180px;
+    top: 0;
+    left: 1333px;
+}

@@ -20,23 +20,38 @@
 </head>
 
 <body>
+
+  <video autoplay loop preload>
+    <source src="video.mp4" type="video/mp4">
+  </video>
+
   <!--шапка-->
-  <nav class="navbar navbar-expand-lg">
-    <ul class="navbar-nav">
-      <li class="nav-item active"><a class="nav-link" href="#">главная</a></li>
-      <li class="nav-item"><a class="nav-link" href="#">развлечения</a></li>
-      <li class="nav-item"><a class="nav-link" href="#">билеты</a></li>
-      <li class="nav-item"><a class="nav-link" href="#">обитатели</a></li>
-    </ul>
-  </nav>
+  <div class="container">
+    <nav class="navbar navbar-expand-lg position-absolute">
+      <ul class="navbar-nav">
+        <li class="nav-item active"><a class="nav-link" href="#">главная</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">развлечения</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">билеты</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">обитатели</a></li>
+      </ul>
+    </nav>
+  </div>
   <!--конец шапки-->
 
-  <h1 class="text-center">VOPO</h1>
-  <h2 class="text-center">океанариум</h2>
-  <button>окунуться в подводный мир</button>
-  <button>узнать о жизни в воде</button>
-  <button>отдохнуть всей семьёй</button>
-  <button>в VOPO</button>
+  <div class="heading position-absolute">
+    <h1 class="text-center">VOPO</h1>
+    <h3 class="text-center">океанариум</h3>
+  </div>
+  <div class="steklo position-absolute container">
+    <img src="img/steklo1.png" alt="">
+  </div>
+  <div class="steklo-border position-absolute">
+    <img src="img/steklo-border.png" alt="">
+  </div>
+  <button class="btn">окунуться в подводный мир</button>
+  <button class="btn">узнать о жизни в воде</button>
+  <button class="btn">отдохнуть всей семьёй</button>
+  <button class="btn">в VOPO</button>
   <p>Океанариум Vopo — это место, где можно не только насладиться красотой подводного мира, но и получить знания о
     нём.</p>
 

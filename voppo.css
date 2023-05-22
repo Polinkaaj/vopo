@@ -238,43 +238,43 @@ p {
 }
 
 .testimon {
-    width: 22%;
+    width: 27%;
     border: 2px solid #1D347E;
     border-radius: 70px;
     margin-bottom: 20px;
 }
 
 .name {
-    padding-left: 40px;
-    padding-top: 15px;
-    font-weight: 900;
-
+    padding: 23px 0;
+    padding-left: 46px;
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: -0.019em;
+    color: #1D347E;
 }
 
-.n-1 {
-    padding-right: 10px;
-}
-
-.n-2 {
-    padding-right: 83px;
-}
-
-.n-3 {
-    padding-right: 168px;
-}
-
-.n-4 {
-    padding-right: 126px;
-}
 
 .otsenka {
+    background: #1D347E;
     border: 2px solid #1D347E;
-    padding: 13px 53px;
-    border-radius: 70px;
-    padding-left: 9%;
+    border-radius: 54px;
     background-color: #1D347E;
     color: #D3E7FF;
+    padding: 13px 53px;
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: -0.019em;
+    color: #D3E7FF;
+    padding-top: 23px;
+    margin-left: 45px;
 }
+
 
 
 h4 {

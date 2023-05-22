@@ -90,6 +90,74 @@ h3 {
     color: #D3E7FF;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+.About a{
+    color:#D3E7FF;
+    border: 2px solid #D3E7FF;
+    padding: 20px 5px 20px 5px;
+    width: 34%;
+    font-size: 24px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+
+
+
+.About{
+    position: relative;
+    z-index: 2;
+}
+.center{
+    padding-top: 224px;
+}
+.lineF{
+    padding-top: 2%;
+    padding-left: 10%;
+}
+.sec {
+    margin-left: 29%;
+}
+
+
+.th{
+    margin-right: 22%;
+}
+.lineT{
+    padding-right: 12%;
+}
+
+.About button{
+    background-color:#D3E7FF;
+    padding: 2% 5% 2% 5%;
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+     line-height: 150%;
+    letter-spacing: -0.019em;
+    color: #1D347E;
+    border-radius: 54px;
+    margin-top: 30px;
+}
+.vopo{
+    font-family: 'Montserrat Alternates';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+text-align: center;
+color: #D3E7FF;
+margin-top: 111px;
+}
+
+
+
+
+
 .galler img {
     width: 97%
 }

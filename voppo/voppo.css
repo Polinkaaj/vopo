@@ -41,9 +41,7 @@ video {
 
 .active {
     border-bottom: 2px solid #D3E7FF;
-
 }
-
 
 .navbar {
     top: 15%;
@@ -90,11 +88,12 @@ h3 {
     color: #D3E7FF;
 }
 
-html{
+html {
     scroll-behavior: smooth;
 }
-.About a{
-    color:#D3E7FF;
+
+.About a {
+    color: #D3E7FF;
     border: 2px solid #D3E7FF;
     padding: 20px 5px 20px 5px;
     width: 34%;
@@ -107,51 +106,56 @@ html{
 
 
 
-.About{
+.About {
     position: relative;
     z-index: 2;
 }
-.center{
-    padding-top: 224px;
+
+.center {
+    margin-top: -240px;
 }
-.lineF{
+
+.lineF {
     padding-top: 2%;
     padding-left: 10%;
 }
+
 .sec {
     margin-left: 29%;
 }
 
 
-.th{
+.th {
     margin-right: 22%;
 }
-.lineT{
+
+.lineT {
     padding-right: 12%;
 }
 
-.About button{
-    background-color:#D3E7FF;
+.About button {
+    background-color: #D3E7FF;
     padding: 2% 5% 2% 5%;
     font-family: 'Montserrat Alternates';
     font-style: normal;
     font-weight: 700;
     font-size: 24px;
-     line-height: 150%;
+    line-height: 150%;
     letter-spacing: -0.019em;
     color: #1D347E;
     border-radius: 54px;
     margin-top: 30px;
 }
-.vopo{
+
+.vopo {
     font-family: 'Montserrat Alternates';
-font-style: normal;
-font-weight: 600;
-font-size: 24px;
-line-height: 150%;
-text-align: center;
-color: #D3E7FF;
-margin-top: 111px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    text-align: center;
+    color: #D3E7FF;
+    margin-top: 111px;
 }
 
 
@@ -163,7 +167,7 @@ margin-top: 111px;
 }
 
 .galler {
-    padding-top: 85px;
+    margin-top: 185px;
 }
 
 body {
@@ -180,12 +184,20 @@ body {
     line-height: 0;
 }
 
+.mySwiper {
+    padding: 0;
+}
+
+.otz_card {
+    padding: 0 40px;
+}
+
 .ThirdFrame {
-    padding-left: 23%;
     margin-top: 85px;
     padding-top: 136px;
     padding-bottom: 136px;
     color: #1D347E;
+
 }
 
 .container-fluid {

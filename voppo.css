@@ -103,9 +103,6 @@ html {
     font-weight: 600;
 }
 
-
-
-
 .About {
     position: relative;
     z-index: 2;
@@ -123,7 +120,6 @@ html {
 .sec {
     margin-left: 29%;
 }
-
 
 .th {
     margin-right: 22%;
@@ -158,10 +154,6 @@ html {
     margin-top: 111px;
 }
 
-
-
-
-
 .galler img {
     width: 97%
 }
@@ -182,6 +174,7 @@ body {
     writing-mode: vertical-rl;
     transform: scale(-1);
     line-height: 0;
+    margin-left: -10px;
 }
 
 .mySwiper {
@@ -197,7 +190,6 @@ body {
     padding-top: 136px;
     padding-bottom: 136px;
     color: #1D347E;
-
 }
 
 .container-fluid {
@@ -206,6 +198,11 @@ body {
 
 p {
     font-size: 24px;
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
 }
 
 .side h4 {
@@ -255,7 +252,7 @@ p {
 }
 
 .n-1 {
-    padding-right: 126px;
+    padding-right: 10px;
 }
 
 .n-2 {
@@ -272,7 +269,7 @@ p {
 
 .otsenka {
     border: 2px solid #1D347E;
-    padding: 13px 42px 10px 5px;
+    padding: 13px 53px;
     border-radius: 70px;
     padding-left: 9%;
     background-color: #1D347E;
@@ -303,15 +300,7 @@ h4 {
     --bs-accordion-bg: transparent;
 }
 
-.accordion-button {
-    font-family: 'Montserrat Alternates';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 150%;
-    letter-spacing: -0.019em;
-    color: #D3E7FF;
-}
+
 
 .accordion-body {
     font-family: 'Montserrat Alternates';
@@ -333,6 +322,13 @@ h4 {
 }
 
 .accordion-button {
+    font-family: 'Montserrat Alternates';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: -0.019em;
+    color: #D3E7FF;
     border: 2px solid rgba(211, 231, 255, 1);
     border-radius: 30px;
 }
